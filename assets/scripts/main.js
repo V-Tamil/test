@@ -1,5 +1,5 @@
-document.querySelectorAll(".accordion-item").forEach((item) => {
-  item.querySelector(".accordion-item-header").addEventListener("click", () => {
-    item.classList.toggle("open");
-  });
-});
+// document.querySelectorAll(".accordion-link").forEach((item) => {
+//   item.querySelector(".answer").addEventListener("click", () => {
+//     item.classList.toggle("open");
+//   });
+//
